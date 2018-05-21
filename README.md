@@ -9,10 +9,9 @@ I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders 
 | SQL        | Express    | Supertest | Accessibility |
 | HTML5/CSS3 | Handlebars | Travis CI | Heroku        |
 
-
 ## Experience
 ### Correl 
-https://correl-symptom-tracker.herokuapp.com
+https://github.com/fac-13/correl
 
 Correl is an application that allows users to rate symptoms and potential contributing factors. These data points are plotted on a graph to show any correlations over time.
 
