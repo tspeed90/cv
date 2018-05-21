@@ -14,19 +14,27 @@ I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders 
 ### Correl 
 https://correl-symptom-tracker.herokuapp.com
 
-Correl is an application that allows users to enter symptoms they are suffering with and potentially contributing factors to see any correlations between them over time. This project was built as part of the Founders and Coders course.
+Correl is an application that allows users to rate symptoms and potential contributing factors. These data points are plotted on a graph to show any correlations over time.
 
-Tech stack used: Express, Handlebars, d3, PostgreSQL, Tape/Supertest
+Tech stack used: Express, Handlebars, PostgreSQL, Tape/Supertest, D3
 
-### [Personal Website](https://tspeed90.github.io/)
+### Personal Website
+https://tspeed90.github.io/
 
-### [Memflip](https://github.com/tspeed90/memory-game)
+Made as part of my application to Founders and Coders, I used this website as an opportunity to learn more about accessibility practices paying special attention to alt text in my photo gallery, running Lighthouse accessibility audits and testing with ChromeVox.
 
-Memflip is a simple memory game that utilizes the Pixabay API for images. This project was made to get practice in Node, utilizing the Request Module, XHR requests and Nock testing.
+### Memflip
+https://github.com/tspeed90/memory-game
 
-### [Calculator](https://github.com/tspeed90/js-calculator/)
+Memflip is a simple photo matching memory game that utilizes the Pixabay API for images. This project uses Node, XHR requests and [Nock](https://www.npmjs.com/package/nock) testing.
 
-### [Local Weather](https://codepen.io/tspeed90/full/GypyQq/)
+### Calculator 
+https://github.com/tspeed90/js-calculator/
+
+### Local Weather
+https://codepen.io/tspeed90/full/GypyQq/
+
+A freeCodeCamp API project which uses geolocation and the [FCC Weather API](https://fcc-weather-api.glitch.me/) to show user's their local forecast for the day.
 
 
 ## Relevant Education
