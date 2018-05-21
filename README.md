@@ -11,17 +11,22 @@ I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders 
 
 
 ## Experience
-Projects to come...
+### Correl 
+https://correl-symptom-tracker.herokuapp.com
 
-In the meantime, here are some personal projects I've worked on:
+Correl is an application that allows users to enter symptoms they are suffering with and potentially contributing factors to see any correlations between them over time. This project was built as part of the Founders and Coders course.
 
-[Personal Website](https://tspeed90.github.io/)
+Tech stack used: Express, Handlebars, d3, PostgreSQL, Tape/Supertest
 
-[Memory Game](https://github.com/tspeed90/memory-game)
+### [Personal Website](https://tspeed90.github.io/)
 
-[Calculator](https://github.com/tspeed90/js-calculator/)
+### [Memflip](https://github.com/tspeed90/memory-game)
 
-[Local Weather](https://codepen.io/tspeed90/full/GypyQq/)
+Memflip is a simple memory game that utilizes the Pixabay API for images. This project was made to get practice in Node, utilizing the Request Module, XHR requests and Nock testing.
+
+### [Calculator](https://github.com/tspeed90/js-calculator/)
+
+### [Local Weather](https://codepen.io/tspeed90/full/GypyQq/)
 
 
 ## Relevant Education
