@@ -25,7 +25,7 @@ Made as part of my application to Founders and Coders, I used this website as an
 ### Memflip
 https://github.com/tspeed90/memory-game
 
-Memflip is a simple photo matching memory game that utilizes the Pixabay API for images. This project uses Node, XHR requests and [Nock](https://www.npmjs.com/package/nock) testing.
+Memflip is a simple photo matching memory game that utilizes the Pixabay API for images. This project uses Node, front end and back end API calls and [Nock](https://www.npmjs.com/package/nock) testing.
 
 ### Calculator 
 https://github.com/tspeed90/js-calculator/
@@ -33,7 +33,7 @@ https://github.com/tspeed90/js-calculator/
 ### Local Weather
 https://codepen.io/tspeed90/full/GypyQq/
 
-A freeCodeCamp API project which uses geolocation and the [FCC Weather API](https://fcc-weather-api.glitch.me/) to show user's their local forecast for the day.
+A freeCodeCamp API project which uses geolocation and the [FCC Weather API](https://fcc-weather-api.glitch.me/) to show users their local forecast for the day.
 
 
 ## Relevant Education
