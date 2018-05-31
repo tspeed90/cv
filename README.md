@@ -3,13 +3,19 @@
 I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders & Coders](https://foundersandcoders.com/). I am interested in Accessibility in development and improving the user experience for all. 
 
 ## Skills
-| Languages  | Frameworks | Testing   | Other         |
-| --------   | --------   | --------  | ------------  |
-| Javascript | Node.js    | Tape      | Git           |
-| SQL        | Express    | Supertest | Accessibility |
-| HTML5/CSS3 | Handlebars | Travis CI | Heroku        |
+| Languages   | Frameworks | Testing   | Other         |
+| --------    | --------   | --------  | ------------  |
+| Javascript  | Node.js    | Tape      | Git           |
+| SQL/Postgres| Express    | Supertest | Accessibility |
+| HTML5/CSS3  | Handlebars | Travis CI | Heroku        |
+|             | React      |           |               |
 
 ## Experience
+### Bernadette (in progress)
+Project with [Grandparents Plus](https://www.grandparentsplus.org.uk/) 
+
+Bernadette is a decision tree application aiming to help Grandparents or other carers recognize their status as a Kinship Carer and prepare them for getting connected with the organization, Grandparents Plus.
+
 ### Correl 
 https://github.com/fac-13/correl
 
