@@ -37,7 +37,7 @@ Memflip is a simple photo matching memory game that utilizes the Pixabay API for
 https://github.com/tspeed90/js-calculator/
 
 ### Local Weather
-https://codepen.io/tspeed90/full/GypyQq/
+https://github.com/tspeed90/local-weather
 
 A freeCodeCamp API project which uses geolocation and the [FCC Weather API](https://fcc-weather-api.glitch.me/) to show users their local forecast for the day.
 
