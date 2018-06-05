@@ -1,6 +1,6 @@
 # Tammy Speed | CV
 
-I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders & Coders](https://foundersandcoders.com/). I am interested in Accessibility in development and improving the user experience for all. 
+I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders & Coders](https://foundersandcoders.com/). I am passionate about Accessibility on the web and improving the user experience for all. 
 
 ## Skills
 | Languages   | Frameworks | Testing   | Other         |
@@ -8,7 +8,7 @@ I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders 
 | Javascript  | Node.js    | Tape      | Git           |
 | SQL/Postgres| Express    | Supertest | Accessibility |
 | HTML5/CSS3  | Handlebars | Travis CI | Heroku        |
-|             | React      |           |               |
+|             | React      |           | NPM           |
 
 ## Experience
 ### Bernadette (in progress)
