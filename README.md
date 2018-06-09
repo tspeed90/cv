@@ -3,12 +3,14 @@
 I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders & Coders](https://foundersandcoders.com/). I am passionate about Accessibility on the web and improving the user experience for all. 
 
 ## Skills
-| Languages   | Frameworks | Testing   | Other         |
-| --------    | --------   | --------  | ------------  |
-| Javascript  | Node.js    | Tape      | Git           |
-| SQL/Postgres| Express    | Supertest | Accessibility |
-| HTML5/CSS3  | Handlebars | Travis CI | Heroku        |
-|             | React      |           | NPM           |
+| Languages   | Frameworks              | Testing               | Other         |
+| --------    | --------                | --------              | ------------  |
+| Javascript  | Node.js                 | Tape                  | Git           |
+| SQL/Postgres| Express                 | Supertest             | Accessibility |
+| HTML5/CSS3  | Handlebars              | Travis CI             | Heroku        |
+|             | React/Styled Components | Jest                  | NPM           |
+|             |                         | React testing library | Parcel        |
+
 
 ## Experience
 ### Bernadette (in progress)
