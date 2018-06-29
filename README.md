@@ -1,6 +1,6 @@
 # Tammy Speed | CV
 
-I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders & Coders](https://foundersandcoders.com/). I am passionate about Accessibility on the web and improving the user experience for all. 
+I am a junior Javascript/Node.js Developer and graduate of [Founders & Coders](https://foundersandcoders.com/). I am passionate about building accessible applications with intuitive, user-friendly UIs and producing high-quality code.
 
 ## Skills
 | Languages   | Frameworks              | Testing               | Other         |
@@ -13,14 +13,21 @@ I am a junior Javascript/Node.js Developer and soon-to-be graduate of [Founders 
 
 
 ## Experience
-### Bernadette (in progress)
+### My Wayfinder
+Repo: https://github.com/tspeed90/GP_ProjectBernadette
+
+Live site: https://my-wayfinder.herokuapp.com
+
 Project with [Grandparents Plus](https://www.grandparentsplus.org.uk/) 
 
-Bernadette is a decision tree application aiming to help Grandparents or other carers recognize their status as a Kinship Carer and prepare them for getting connected with the organization, Grandparents Plus.
+An accessible decision tree web app built to help grandparents and other carers visiting the Grandparents Plus charity's website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity.
+
+Tech stack used: React, Express, Styled Components, Parcel bundler, Jest
 
 ### Correl 
-https://github.com/fac-13/correl
+Repo: https://github.com/fac-13/correl
 
+Live site: https://correl-symptom-tracker.herokuapp.com
 Correl is an application that allows users to rate symptoms and potential contributing factors. These data points are plotted on a graph to show any correlations over time.
 
 Tech stack used: Express, Handlebars, PostgreSQL, Tape/Supertest, D3
@@ -31,18 +38,23 @@ https://tspeed90.github.io/
 Made as part of my application to Founders and Coders, I used this website as an opportunity to learn more about accessibility practices paying special attention to alt text in my photo gallery, running Lighthouse accessibility audits and testing with ChromeVox.
 
 ### Memflip
-https://github.com/tspeed90/memory-game
+Repo: https://github.com/tspeed90/memory-game
+
+Live site: https://memflip.herokuapp.com
 
 Memflip is a simple photo matching memory game that utilizes the Pixabay API for images. This project uses Node, front end and back end API calls and [Nock](https://www.npmjs.com/package/nock) testing.
 
 ### Calculator 
-https://github.com/tspeed90/js-calculator/
+Repo: https://github.com/tspeed90/js-calculator/
+
+Live site: https://tspeed90.github.io/js-calculator/
 
 ### Local Weather
-https://github.com/tspeed90/local-weather
+Repo: https://github.com/tspeed90/local-weather
+
+Live site: https://hows-the-weather.netlify.com/
 
 A freeCodeCamp API project which uses geolocation and the [FCC Weather API](https://fcc-weather-api.glitch.me/) to show users their local forecast for the day.
-
 
 ## Relevant Education
 ![](http://res.cloudinary.com/dp6beg5nw/image/upload/v1525004700/fac-logo_njmmf7.png)
