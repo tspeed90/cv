@@ -28,6 +28,7 @@ Tech stack used: React, Express, Styled Components, Parcel bundler, Jest
 Repo: https://github.com/fac-13/correl
 
 Live site: https://correl-symptom-tracker.herokuapp.com
+
 Correl is an application that allows users to rate symptoms and potential contributing factors. These data points are plotted on a graph to show any correlations over time.
 
 Tech stack used: Express, Handlebars, PostgreSQL, Tape/Supertest, D3
