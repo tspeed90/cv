@@ -8,7 +8,7 @@ I am a Javascript/Node.js Developer and graduate of [Founders & Coders](https://
 | Javascript  | Node.js                 | Tape                  | Accessibility    |
 | SQL/Postgres| Express                 | Supertest             | Git              |
 | HTML5/CSS3  | Handlebars              | Travis CI             | Heroku           |
-|             | React                   | Jest                  | Styled Components|
+|             | React                   | Jest                  | styled-components|
 |             |                         | React testing library | Webpack          |
 |             |                         |                       | Parcel           |
 |             |                         |                       | NPM              |
