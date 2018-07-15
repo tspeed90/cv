@@ -3,15 +3,13 @@
 I am a Javascript/Node.js Developer and graduate of [Founders & Coders](https://foundersandcoders.com/). I am passionate about building accessible applications with intuitive, user-friendly UIs and producing high-quality code.
 
 ## Skills
-| Languages   | Frameworks              | Testing               | Other            |
-| --------    | --------                | --------              | -------------    |
-| Javascript  | Node.js                 | Tape                  | Accessibility    |
-| SQL/Postgres| Express                 | Supertest             | Git              |
-| HTML5/CSS3  | Handlebars              | Travis CI             | Heroku           |
-|             | React                   | Jest                  | styled-components|
-|             |                         | React testing library | Webpack          |
-|             |                         |                       | Parcel           |
-|             |                         |                       | NPM              |
+| Languages   | Frameworks       | Testing               | Tools            | 
+| --------    | --------         | --------              | -------------    | 
+| Javascript  | Node.js          | Tape                  | Git              | 
+| SQL/Postgres| Express          | Supertest             | Heroku           |
+| HTML        | Handlebars       | Travis CI             | styled-components|
+| CSS         | React            | Jest                  | Webpack          |
+|             |                  |                       | NPM              | 
 
 
 ## Experience
