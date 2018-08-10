@@ -9,7 +9,7 @@ I am a Javascript/Node.js Developer and graduate of [Founders & Coders](https://
 | SQL/Postgres| Express          | Supertest             | Heroku           |
 | HTML        | Handlebars       | Travis CI             | styled-components|
 | CSS         | React            | Jest                  | Webpack          |
-|             |                  |                       | NPM              | 
+|             | Redux            |                       | NPM              | 
 
 
 ## Experience
@@ -68,9 +68,11 @@ California State University, Fresno (Graduated 2013)
 
 
 Responsibilities:
-- Facilitating communication at the university level in a variety of courses (e.g. Early Childhood Education, Cosmetology, Intro to Web Development) as well as miscellaneous campus events
+- Facilitating communication at the university level in a variety of courses (e.g. Early Childhood Education, Cosmetology, Intro to Web Development) as well as staff meetings, business meetings and other campus events
 - Working in pairs to provide interpreting services for students, teachers and other staff
 - Utilizing materials (books, powerpoints) to prepare for interpreting work ahead of classes/events
 
 
+## Contact Me
 
+tspeed90@gmail.com
