@@ -48,7 +48,10 @@ A freeCodeCamp API project which uses geolocation and the [FCC Weather API](http
 [GitHub Repository](https://github.com/tspeed90/local-weather) | [Live site](https://hows-the-weather.netlify.com/)
 
 ## Mentoring Experience
-I spent a week mentoring one of the Founders and Coders cohorts and have also mentored at meetups including *Coding for Everyone* and *Coding for Women*.
+- Founders and Coders course - 1 week of mentoring, leading workshops on Git/GitHub, Accessibility 
+- [Codebar](https://codebar.io)
+- [Coding for Everyone](https://www.meetup.com/founderscoders/events/xwsvvpyxlbjb/) 
+- [Coding for Women](https://www.meetup.com/founderscoders/events/fncbppyxlbkb/)
 
 
 ## Relevant Education
