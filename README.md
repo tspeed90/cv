@@ -42,16 +42,11 @@ Memflip is a simple photo matching memory game that utilizes the Pixabay API for
 ### Calculator 
 [GitHub Repository](https://github.com/tspeed90/js-calculator/) | [Live site](https://tspeed90.github.io/js-calculator/)
 
-### Local Weather  
-A freeCodeCamp API project which uses geolocation and the [FCC Weather API](https://fcc-weather-api.glitch.me/) to show users their local forecast for the day.
-
-[GitHub Repository](https://github.com/tspeed90/local-weather) | [Live site](https://hows-the-weather.netlify.com/)
-
 ## Mentoring Experience
 - Founders and Coders course - 1 week of mentoring, leading workshops on Git/GitHub, Accessibility 
 - [Codebar](https://codebar.io)
-- [Coding for Everyone](https://www.meetup.com/founderscoders/events/xwsvvpyxlbjb/) 
-- [Coding for Women](https://www.meetup.com/founderscoders/events/fncbppyxlbkb/)
+- [Coding for Everyone](https://www.meetup.com/founderscoders/events/xwsvvpyxlbjb/) & [Coding for Women](https://www.meetup.com/founderscoders/events/fncbppyxlbkb/)
+- [Get into Tech: North Kensington](https://thekandcfoundation.com/latest/get-into-tech-north-kensington-free-course/)
 
 
 ## Relevant Education
@@ -71,9 +66,11 @@ California State University, Fresno (Graduated 2013)
 
 
 Responsibilities:
+- Providing voice-to-sign and sign-to-voice interpretations for students, teachers, and other college staff
 - Facilitating communication at the university level in a variety of courses (e.g. Early Childhood Education, Cosmetology, Intro to Web Development) as well as staff meetings, business meetings and other campus events
 - Working in pairs to provide interpreting services for students, teachers and other staff
-- Utilizing materials (books, powerpoints) to prepare for interpreting work ahead of classes/events
+- Maintaining communication with teams and Interpreting Coordinator to  course-related changes or situations in need of addressing
+- Utilizing materials (lecture notes, handouts, course textbooks) to prepare for interpreting work ahead of classes/events
 
 
 ## Contact Me
