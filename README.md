@@ -17,7 +17,7 @@ I am a Software Developer and graduate of [Founders & Coders](https://foundersan
 
 ### Workerbird
 
-I worked a sprint with the Tech-for-Good startup, Workerbird, building a webpage introducing the company and product features. The project team consisted of two developers, the Co-Founder of Workerbird, and a designer. As part of the team, I was able to provide feedback to the overall design as well as specific ways to implement certain design features (ie. drop-down menu, carousel).
+I worked a sprint with the Tech-for-Good startup, Workerbird, building a webpage introducing the company and product features. The project team consisted of two developers, the Co-Founder of Workerbird, and a designer. As part of the team, I was able to provide feedback to the overall design as well as specific ways to implement certain design features (ie. mobile-view hamburger menu, carousel).
 
 [Live site](https://www.workerbird.co.uk/)
 
