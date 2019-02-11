@@ -1,6 +1,6 @@
 # Tammy Speed | CV
 
-I am a Software Developer and graduate of [Founders & Coders](https://foundersandcoders.com/). I am passionate about building accessible applications with intuitive, user-friendly UIs and producing high-quality code.
+I am a Software Engineer with a passion for building accessible, intuitive and user-friendly applications and producing readable and maintainable code.
 
 ## Skills
 
@@ -15,9 +15,9 @@ I am a Software Developer and graduate of [Founders & Coders](https://foundersan
 
 ## Experience
 
-### Workerbird
+### workerbird
 
-I worked a sprint with the Tech-for-Good startup, Workerbird, building a webpage introducing the company and product features. The project team consisted of two developers, the Co-Founder of Workerbird, and a designer. As part of the team, I was able to provide feedback to the overall design as well as specific ways to implement certain design features (ie. mobile-view hamburger menu, carousel).
+I worked a sprint with the Tech-for-Good startup, workerbird, building a webpage introducing the company and product features. The project team consisted of two developers, the Co-Founder of workerbird, and a designer. As part of the team, I was able to provide feedback to the overall design as well as specific ways to implement certain design features (ie. mobile-view hamburger menu, carousel).
 
 [Live site](https://www.workerbird.co.uk/)
 
@@ -25,35 +25,22 @@ I worked a sprint with the Tech-for-Good startup, Workerbird, building a webpage
 
 Project with [Grandparents Plus](https://www.grandparentsplus.org.uk/)
 
-An accessible decision tree web app built to help grandparents and other carers visiting the Grandparents Plus charity's website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity.
+An accessible decision tree application built to help grandparents and other carers visiting the Grandparents Plus charity's website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity.
 
 Tech stack used: React, Express, Styled Components, Parcel bundler, Jest
 
 [GitHub Repository](https://github.com/tspeed90/GP_ProjectBernadette) | [Live site](https://my-wayfinder.herokuapp.com)
 
-### Correl
+### BookQueue
 
-Correl is an application that allows users to rate symptoms and potential contributing factors. These data points are plotted on a graph to show any correlations over time.
+An application to inspire reading. BookQueue helps users find best-selling books and add those of interest to their shelf to help keep track of books for future reading. 
 
-Tech stack used: Express, Handlebars, PostgreSQL, Tape/Supertest, D3
+[Github Repository](https://github.com/tspeed90/book-queue) | [Live site](https://book-queue.herokuapp.com/)
 
-[GitHub Repository](https://github.com/tspeed90/correl) | [Live site](https://correl-symptom-tracker.herokuapp.com)
+### TabSnooze
+TabSnooze is a Chrome extension that allows you to snooze your tabs and declutter your browser until you are ready to see the tab again. Choose between any number of hours or days and after the time is up, the snoozed tab will reappear in your browser.
 
-### Personal Website
-
-Made as part of my application to Founders and Coders, I used this website as an opportunity to learn more about accessibility practices paying special attention to alt text in my photo gallery, running Lighthouse accessibility audits and testing with ChromeVox.
-
-[GitHub Repository](https://github.com/tspeed90/tspeed90.github.io) | [Live site](https://tspeed90.github.io/)
-
-### Memflip
-
-Memflip is a simple photo matching memory game that utilizes the Pixabay API for images. This project uses Node, front end and back end API calls and [Nock](https://www.npmjs.com/package/nock) testing.
-
-[GitHub Repository](https://github.com/tspeed90/memory-game) | [Live site](https://memflip.herokuapp.com)
-
-### Calculator
-
-[GitHub Repository](https://github.com/tspeed90/js-calculator/) | [Live site](https://tspeed90.github.io/js-calculator/)
+[Github Repository](https://github.com/tspeed90/tab-snooze)
 
 ## Mentoring Experience
 
@@ -88,13 +75,7 @@ California State University, Fresno (Graduated 2013)
 
 #### San Jose City College (Jan 2014 - Dec 2016)
 
-Responsibilities:
-
-- Providing voice-to-sign and sign-to-voice interpretations for students, teachers, and other college staff
-- Facilitating communication at the university level in a variety of courses (e.g. Early Childhood Education, Cosmetology, Intro to Web Development) as well as staff meetings, business meetings and other campus events
-- Working in pairs to provide interpreting services for students, teachers and other staff
-- Maintaining communication with teams and Interpreting Coordinator to course-related changes or situations in need of addressing
-- Utilizing materials (lecture notes, handouts, course textbooks) to prepare for interpreting work ahead of classes/events
+I provided interpreting services for students and staff in lectures, meetings, and miscellaneous events.
 
 ## Contact Me
 
