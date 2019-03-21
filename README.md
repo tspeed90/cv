@@ -27,13 +27,15 @@ Project with [Grandparents Plus](https://www.grandparentsplus.org.uk/)
 
 An accessible decision tree application built to help grandparents and other carers visiting the Grandparents Plus charity's website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity.
 
-Tech stack used: React, Express, Styled Components, Parcel bundler, Jest
+Tech stack used: React, Express, styled-components, Parcel bundler, Jest
 
 [GitHub Repository](https://github.com/tspeed90/GP_ProjectBernadette) | [Live site](https://my-wayfinder.herokuapp.com)
 
 ### BookQueue
 
 An application to inspire reading. BookQueue helps users find best-selling books and add those of interest to their shelf to help keep track of books for future reading. 
+
+Tech stack used: React, Express, Webpack, styled-components, Sequelize
 
 [Github Repository](https://github.com/tspeed90/book-queue) | [Live site](https://book-queue.herokuapp.com/)
 
@@ -51,6 +53,9 @@ TabSnooze is a Chrome extension that allows you to snooze your tabs and declutte
 #### Meetups: Codebar, Coding for Everyone and Coding for Women
 
 #### Get into Tech: North Kensington    
+
+### SOAS Coding Club
+- helped students navigate the Codebar tutorials on Javascript and HTML/CSS
 
 
 ## Relevant Education
