@@ -54,7 +54,7 @@ TabSnooze is a Chrome extension that allows you to snooze your tabs and declutte
 
 #### Get into Tech: North Kensington    
 
-### SOAS Coding Club
+#### SOAS Coding Club
 - helped students navigate the Codebar tutorials on Javascript and HTML/CSS
 
 
