@@ -10,10 +10,14 @@ I am a Software Engineer with a passion for building accessible, intuitive and u
 | SQL/Postgres | Express              | Supertest | Heroku  |
 | HTML         | Handlebars           | Travis CI | Webpack |
 | CSS          | React                | Jest      | NPM     |
-|              | Redux                |           |         |
+| Ruby-on-Rails| Redux                |           |         |
 |              | styled-components    |           |         |
 
 ## Experience
+
+### Simply the Basics
+
+I've been working on a Ruby on Rails marketplace to connect nonprofits with donors. I’ve helped add new features, upgrade the UI and improve accessibility. I’ve also contributed to the maintainability of the project by removing dead/duplicated code and written design documents to help plan larger tasks.
 
 ### workerbird
 
@@ -30,6 +34,10 @@ An accessible decision tree application built to help grandparents and other car
 Tech stack used: React, Express, styled-components, Parcel bundler, Jest
 
 [GitHub Repository](https://github.com/tspeed90/GP_ProjectBernadette) | [Live site](https://my-wayfinder.herokuapp.com)
+
+### Password Generator
+
+A React Native application that helps users easily generate and retrieve unique passwords for logins and uses Google Firebase for storing data.
 
 ### BookQueue
 
@@ -50,9 +58,7 @@ TabSnooze is a Chrome extension that allows you to snooze your tabs and declutte
 - planning and presenting various workshops on topics including: Git/GitHub, Accessibility, Figma/Invision Design Tools
 - providing code review for student projects
 
-#### Meetups: Codebar, Coding for Everyone and Coding for Women
-
-#### Get into Tech: North Kensington    
+#### Meetups: Codebar, Coding for Everyone and Coding for Women   
 
 #### SOAS Coding Club
 - helped students navigate the Codebar tutorials on Javascript and HTML/CSS
